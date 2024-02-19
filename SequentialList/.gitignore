@@ -8,3 +8,7 @@ build/
 # vscode configuration
 .gitignore
 .vscode/
+
+src/*.exe
+src/*.ilk
+src/*.pdb
